@@ -1,5 +1,4 @@
 # Site settings
-theme: jekyll-theme-minimal
 title: Great New Blog Title
 author:
   name: Evan Will
@@ -7,4 +6,4 @@ author:
 description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
-remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
